@@ -1,4 +1,5 @@
 # Table of contents
 
-* [StartJS](README.md)
+* [Home](README.md)
+* [Starting](start.md)
 
