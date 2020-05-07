@@ -4,6 +4,6 @@
 * [Starting](start.md)
 * [NPM](npm.md)
     * [Yarn](npm/yarn.md)
-* [Projects]
+* Projects
     * [ExpressJS Static Web Server](start-a-project\expressjs.md)
 
