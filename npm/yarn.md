@@ -16,9 +16,8 @@ Then wait for it to finish. Once that's done, that is Yarn Installed. Easy, Righ
 
 ## How to Initialize a Folder using Yarn:
 
-{% hint style="warning" %}
-**Do Not** do this step until instructed by another tutorial.
-{% endhint %}
+!!! warning
+    **Do Not** do this step until instructed by another tutorial.
 
 Step 1. Open the file in Visual Studio Code. Step 2. Click on the Terminal Category of the Menu, and then click "New Terminal". Step 3. Type `yarn init` and press enter 9 times.
 
