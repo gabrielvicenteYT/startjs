@@ -8,7 +8,21 @@ Yarn is an alternative installer for NPM packages. Yarn is more secure, easier t
 
 Installing Yarn is the one time that we will be using NPM. Simply run the below command in an app called Command Prompt (Windows) or Terminal (MacOS/Linux). We do not Support ChromeOS.
 
-```
+```bash
 npm i -g yarn
 ```
+
 Then wait for it to finish. Once that's done, that is Yarn Installed. Easy, Right?
+
+## How to Initialize a Folder using Yarn:
+
+{% hint style="warning" %}
+**Do Not** do this step until instructed by another tutorial.
+{% endhint %}
+Step 1. Open the file in Visual Studio Code. 
+Step 2. Click on the Terminal Category of the Menu, and then click "New Terminal".
+Step 3. Type ```yarn init``` and press enter 9 times. 
+
+## What's Next?
+
+Why not try one of our [Projects](start-a-project/projects.md)?
