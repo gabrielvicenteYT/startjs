@@ -24,4 +24,4 @@ Install [GitHub Desktop](https://desktop.github.com/)
 
 ### What's Next?
 
-Why Not try one of our Starting a Project Tutorials?
+Next, we need to learn what NPM is and how to install Yarn. [Click Here.](/npm.md)

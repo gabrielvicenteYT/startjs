@@ -6,9 +6,9 @@ Yarn is an alternative installer for NPM packages. Yarn is more secure, easier t
 
 ## Installing Yarn
 
-Installing Yarn is the one time that we will be using NPM. Simply run the below command in an app called Command Prompt (Windows) or Termninal (MacOS/Linux). We do not Support ChromeOS.
+Installing Yarn is the one time that we will be using NPM. Simply run the below command in an app called Command Prompt (Windows) or Terminal (MacOS/Linux). We do not Support ChromeOS.
 
 ```
 npm i -g yarn
 ```
-Then wait for it to finish. Once thats done, that is Yarn Installed. Easy, Right?
+Then wait for it to finish. Once that's done, that is Yarn Installed. Easy, Right?

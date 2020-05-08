@@ -10,3 +10,7 @@ Why Would you use NPM? NPM is a way to save time. Rather than making your own pi
 
 StartJS uses Yarn as it is easier, faster and more secure than NPM. 
 Before Starting ANY Project, please read [our Yarn Installation Guide](npm/yarn.md)
+
+## What's Next?
+
+We now need to [Install Yarn.](npm/yarn.md)
