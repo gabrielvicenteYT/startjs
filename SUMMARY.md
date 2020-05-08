@@ -2,11 +2,12 @@
 
 * [Home](README.md)
 * [Starting](start.md)
-* [NPM](npm.md)
+* [NPM](npm/README.md)
   * [Yarn](npm/yarn.md)
-* [Projects](start-a-project/projects.md)
-  * [General](start-a-project/general/general.md)
-    * [ExpressJS Static Web Server](start-a-project\general\expressjs.md)
-  * [NodeJS (Serverside Javascript)](start-a-project/node/node.md)
-  * [Web](start-a-project/web/web.md)
+* [Projects](projects/README.md)
+  * [General](projects/general/README.md)
+    * [ExpressJS Static Web Server](projects/general/expressjs.md)
+  * [NodeJS \(Serverside Javascript\)](projects/node.md)
+  * [Web](projects/web/README.md)
+    * [Getting Started with a Basic Youtube Video Downloader \(Part. 1\)](projects/web/getting-started-with-a-basic-youtube-video-downloader-part.-1.md)
 

@@ -1,4 +1,4 @@
-# Let's START JavaScript:
+# Starting
 
 ## First Things First:
 
@@ -12,14 +12,15 @@ Install [Node.js](https://nodejs.org)
 
 Install [VS Code](https://code.visualstudio.com/)
 
-### Step 3 (optional).
+### Step 3 \(optional\).
 
 Sign up for a [GitHub.com Account](https://github.com)
 
-### Step 4 (optional, requires step 3).
+### Step 4 \(optional, requires step 3\).
 
 Install [GitHub Desktop](https://desktop.github.com/)
 
 ### What's Next?
 
-Next, we need to learn what NPM is and how to install Yarn. [Click Here.](/npm.md)
+Next, we need to learn what NPM is and how to install Yarn. [Click Here.](npm/)
+
