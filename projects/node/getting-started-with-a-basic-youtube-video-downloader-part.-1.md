@@ -1,4 +1,8 @@
-# Getting Started with a Basic Youtube Video Downloader \(Part. 1\)
+---
+description: In this tutorial we will make a basic video downloader for youtube.
+---
+
+# Building a Basic Youtube Video Downloader \(Part. 1\)
 
 ## Getting Started
 

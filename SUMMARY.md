@@ -7,7 +7,7 @@
 * [Projects](projects/README.md)
   * [General](projects/general/README.md)
     * [ExpressJS Static Web Server](projects/general/expressjs.md)
-  * [NodeJS \(Serverside Javascript\)](projects/node.md)
-  * [Web](projects/web/README.md)
-    * [Getting Started with a Basic Youtube Video Downloader \(Part. 1\)](projects/web/getting-started-with-a-basic-youtube-video-downloader-part.-1.md)
+  * [NodeJS \(Serverside Javascript\)](projects/node/README.md)
+    * [Building a Basic Youtube Video Downloader \(Part. 1\)](projects/node/getting-started-with-a-basic-youtube-video-downloader-part.-1.md)
+  * [Web](projects/web.md)
 
