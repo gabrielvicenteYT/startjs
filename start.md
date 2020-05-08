@@ -20,8 +20,6 @@ Sign up for a [GitHub.com Account](https://github.com)
 
 Install [GitHub Desktop](https://desktop.github.com/)
 
-## Done. Your Development Environment has been Setup!
-
 ### What's Next?
 
 Next, we need to learn what NPM is and how to install Yarn. [Click Here.](/npm.md)

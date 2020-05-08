@@ -21,3 +21,7 @@ Although there are similarities between JavaScript and Java, including language 
 ## Ready to Start Learning JavaScript?
 
 Check out or [Starting Tutorial](/start.md)
+
+## Any Questions? Need Help?
+
+Create an Issue at our [GitHub Repo](https://github.com/steviebeenz/startjs/issues). This is the place to discuss JavaScript Queries and Documentation Errors. Another Great Place to ask a question is on [Stack Overflow](https://stackoverflow.com/questions/tagged/javascript) if you don't get an answer on our Issues page. 
